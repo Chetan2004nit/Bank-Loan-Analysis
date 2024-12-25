@@ -84,6 +84,8 @@ Using Power BI,we created visualizations including
 10.Grid
 
 # INSIGHTS
+Mejority loans are of good loan catagory.Most loans Have been taken by the above 18 Years and the no of loans are highest in the month of December.
+Most of the people have taken loan for the debt consolidation.
 
 # CONCLUSSION
 This project provides insights into Bank Loan analysis and trends.
